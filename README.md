@@ -1,0 +1,2 @@
+# Biji_t_j_ELEVATE_LABS_day1_Data_visualisation_and_story_telling
+Data cleaning and visualisation using PowerBI
